@@ -55,6 +55,7 @@ source ~/.bashrc
 ```export | grep ROS``` 
 
 配置完成截图：
+
  ![](http://ww3.sinaimg.cn/mw690/a44300b5gw1f9ku78iycxj20kx03mgnf.jpg)
 
 环境设置文件是为你产生的，但是可以来自不同的地方：
