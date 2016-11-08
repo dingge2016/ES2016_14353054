@@ -90,7 +90,7 @@ catkin_make
 
 ![](http://ww2.sinaimg.cn/mw690/a44300b5gw1f9ku6pjf0xj20kj0aw0xv.jpg)
 
-catkin_make命令可以非常方便的建立一个catkin工作空间，在你的当前目录中可以看到有build和devel两个文件夹，在devel文件夹中可以看到许多个setup.*sh文件。启用这些文件都会覆盖你现在的环境变量，想了解更多，可以查看文档catkin。在继续下一步之前先启动你的新的setup.*sh 文件。
+catkin_make命令可以非常方便的建立一个catkin工作空间，在你的当前目录中可以看到有build和devel两个文件夹，在devel文件夹中可以看到许多个setup.*sh文件。在继续下一步之前先启动你的新的setup.*sh 文件。
 
 ```source devel/setup.bash```
 
