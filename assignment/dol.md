@@ -25,7 +25,8 @@
 
     
 #####实验结果：输出4次方
-![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/17202892.jpg)
+
+![](http://ww1.sinaimg.cn/small/a44300b5gw1f9lp30px4hj20m70g9qa0.jpg)
 
 ####实验2
 
@@ -44,7 +45,9 @@
 
 #####实验结果
 输出3次方数
-![](http://7xrn7f.com1.z0.glb.clouddn.com/16-11-7/18458799.jpg)
+
+![](http://ww3.sinaimg.cn/mw690/a44300b5gw1f9lp305vfyj20m60fj0yl.jpg)
+
 
 
 ###实验感想：
