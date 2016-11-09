@@ -26,7 +26,7 @@
     
 #####实验结果：输出4次方
 
-![](http://ww1.sinaimg.cn/small/a44300b5gw1f9lp30px4hj20m70g9qa0.jpg)
+![](http://ww1.sinaimg.cn/mw690/a44300b5gw1f9lp30px4hj20m70g9qa0.jpg)
 
 ####实验2
 
