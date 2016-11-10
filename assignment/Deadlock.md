@@ -95,8 +95,5 @@ Deadlock会创建子线程t,然后等待count的while循环结束，之后执行
 等时间片用完切换到子线程t,此时要调用a.last()，由于methodA()函数正在被Deadlock线程调用着，t线程阻塞。
 
 等时间片结束回到Deadlock线程。Deadlock 想要继续调度 b.last()，但是methodB被占用，Deaklock被阻塞，周而复始，产生死锁。
- 
-流程示意图:
-![](http://ww2.sinaimg.cn/mw690/a44300b5gw1f9myl9z15ij209o0a6dgb.jpg)
 
  
