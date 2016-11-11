@@ -102,4 +102,31 @@ catkin_make命令可以非常方便的建立一个catkin工作空间，在你的
 
 ![](http://ww4.sinaimg.cn/mw690/a44300b5gw1f9ku77pip4j20fr01574l.jpg)
 
+##测试结果：乌龟程序的尝试
+
+打开一个终端，输入```roscore```
+
+显示：
+
+![](http://ww1.sinaimg.cn/mw690/a44300b5gw1f9ok7ye6d8j20jv0ci416.jpg)
+
+新开另一个终端，输入``` rosrun turtlesim turtlesim_node```，开启界面：
+
+显示：
+
+![](http://ww4.sinaimg.cn/mw690/a44300b5gw1f9ok7xz7o3j20il0camy0.jpg)
+
+新开另一个终端，输入```rosrun rqt_graph rqt_graph```，可以看到ROS nodes以及Topic等图形展示: 
+
+![](http://ww4.sinaimg.cn/mw690/a44300b5gw1f9ok7xn9qxj20d205d0su.jpg)
+
+##实验感想
+
+英文教程没有跟下来，借鉴了中文教程。
+安装部分：
+文／贤言序语（简书作者）
+原文链接：http://www.jianshu.com/p/04be841e2293
+测试部分:
+原文链接：http://www.th7.cn/system/lin/201504/103167.shtml
+
  
